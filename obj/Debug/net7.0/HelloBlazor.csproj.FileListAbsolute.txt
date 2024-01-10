@@ -60,3 +60,4 @@ F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\HelloBlaz
 F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\HelloBlazor\obj\Debug\net7.0\HelloBlazor.pdb
 F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\HelloBlazor\obj\Debug\net7.0\HelloBlazor.genruntimeconfig.cache
 F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\HelloBlazor\obj\Debug\net7.0\ref\HelloBlazor.dll
+F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\HelloBlazor\obj\Debug\net7.0\HelloBlazor.sourcelink.json
