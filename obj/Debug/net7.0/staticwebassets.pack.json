@@ -5,6 +5,118 @@
       "PackagePath": "staticwebassets\\HelloBlazor.bundle.scp.css"
     },
     {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\2xm-190-atraxa-praetors-voice.jpg",
+      "PackagePath": "staticwebassets\\Images\\2xm-190-atraxa-praetors-voice.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\40k-124-ghyrson-starn-kelermorph.jpg",
+      "PackagePath": "staticwebassets\\Images\\40k-124-ghyrson-starn-kelermorph.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\afr-62-iymrith-desert-doom.jpg",
+      "PackagePath": "staticwebassets\\Images\\afr-62-iymrith-desert-doom.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\akh-136-hazoret-the-fervent.jpg",
+      "PackagePath": "staticwebassets\\Images\\akh-136-hazoret-the-fervent.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\c18-48-varina-lich-queen.jpg",
+      "PackagePath": "staticwebassets\\Images\\c18-48-varina-lich-queen.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\c19-18-k-rrik-son-of-yawgmoth.jpg",
+      "PackagePath": "staticwebassets\\Images\\c19-18-k-rrik-son-of-yawgmoth.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\c19-47-pramikon-sky-rampart.jpg",
+      "PackagePath": "staticwebassets\\Images\\c19-47-pramikon-sky-rampart.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\c20-10-kathril-aspect-warper.jpg",
+      "PackagePath": "staticwebassets\\Images\\c20-10-kathril-aspect-warper.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\c21-70-yedora-grave-gardener.jpg",
+      "PackagePath": "staticwebassets\\Images\\c21-70-yedora-grave-gardener.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\cm2-1-the-mimeoplasm.jpg",
+      "PackagePath": "staticwebassets\\Images\\cm2-1-the-mimeoplasm.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\cmr-266-amareth-the-lustrous.jpg",
+      "PackagePath": "staticwebassets\\Images\\cmr-266-amareth-the-lustrous.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\cmr-293-yurlok-of-scorch-thrash.jpg",
+      "PackagePath": "staticwebassets\\Images\\cmr-293-yurlok-of-scorch-thrash.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\dmu-218-shanna-purifying-blade.jpg",
+      "PackagePath": "staticwebassets\\Images\\dmu-218-shanna-purifying-blade.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\dom-36-teshar-ancestor-s-apostle.jpg",
+      "PackagePath": "staticwebassets\\Images\\dom-36-teshar-ancestor-s-apostle.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\fut-51-linessa-zephyr-mage.jpg",
+      "PackagePath": "staticwebassets\\Images\\fut-51-linessa-zephyr-mage.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\grist-the-hunger-tide-53305-medium.jpg",
+      "PackagePath": "staticwebassets\\Images\\grist-the-hunger-tide-53305-medium.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\khm-168-esika-god-of-the-tree.jpg",
+      "PackagePath": "staticwebassets\\Images\\khm-168-esika-god-of-the-tree.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\khm-212-harald-king-of-skemfar.jpg",
+      "PackagePath": "staticwebassets\\Images\\khm-212-harald-king-of-skemfar.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\khm-70-orvar-the-all-form.jpg",
+      "PackagePath": "staticwebassets\\Images\\khm-70-orvar-the-all-form.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\mid-59-lier-disciple-of-the-drowned.jpg",
+      "PackagePath": "staticwebassets\\Images\\mid-59-lier-disciple-of-the-drowned.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\muxus-goblin-grandee.jpg",
+      "PackagePath": "staticwebassets\\Images\\muxus-goblin-grandee.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\pca-18-higure-the-still-wind.jpg",
+      "PackagePath": "staticwebassets\\Images\\pca-18-higure-the-still-wind.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\slx-3-cecily-haunted-mage.jpg",
+      "PackagePath": "staticwebassets\\Images\\slx-3-cecily-haunted-mage.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\stx-155-plargg-dean-of-chaos.jpg",
+      "PackagePath": "staticwebassets\\Images\\stx-155-plargg-dean-of-chaos.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\tsp-243-mishra-artificer-prodigy.jpg",
+      "PackagePath": "staticwebassets\\Images\\tsp-243-mishra-artificer-prodigy.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\voc-16-timin-youthful-geist.jpg",
+      "PackagePath": "staticwebassets\\Images\\voc-16-timin-youthful-geist.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\voc-8-rhoda-geist-avenger.jpg",
+      "PackagePath": "staticwebassets\\Images\\voc-8-rhoda-geist-avenger.jpg"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\Images\\vow-243-odric-blood-cursed.jpg",
+      "PackagePath": "staticwebassets\\Images\\vow-243-odric-blood-cursed.jpg"
+    },
+    {
       "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\css\\bootstrap\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
     },
