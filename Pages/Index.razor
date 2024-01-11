@@ -1,15 +1,5 @@
 ﻿@page "/"
 
-<PageTitle>Index</PageTitle>
-
-<h1>Hello, world!</h1>
-
-Welcome to your new app.
-
-<SurveyPrompt Title="How is Blazor working for you?" />
-
-<Counter IncrementAmount="10"/>
-<body data-bs-them="dark">
     <div class="form-check form-switch mx-4">
       <input
         class="form-check-input p-2"
@@ -20,6 +10,30 @@ Welcome to your new app.
         onclick="dltoggler()"
       />
     </div>
+
+    
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+<Counter IncrementAmount="10"/>
+<body>
+
+<div class="card" style="width: 18rem;">
+  <img src="Images\c19-18-k-rrik-son-of-yawgmoth.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+</body>
 
     <script>
       function dltoggler() {
@@ -37,14 +51,3 @@ Welcome to your new app.
         }
       }
     </script>
-
-<div class="card" style="width: 18rem;">
-  <img src="Images\c19-18-k-rrik-son-of-yawgmoth.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-
-</body>
