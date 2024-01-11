@@ -9,6 +9,34 @@ Welcome to your new app.
 <SurveyPrompt Title="How is Blazor working for you?" />
 
 <Counter IncrementAmount="10"/>
+<body data-bs-them="dark">
+    <div class="form-check form-switch mx-4">
+      <input
+        class="form-check-input p-2"
+        type="checkbox"
+        role="switch"
+        id="flexSwitchCheckChecked"
+        checked
+        onclick="dltoggler()"
+      />
+    </div>
+
+    <script>
+      function dltoggler() {
+        var element = document.body;
+        element.dataset.bsTheme =
+          element.dataset.bsTheme == "light" ? "dark" : "light";
+      }
+      function stepFunction(event) {
+        debugger;
+        var element = document.getElementsByClassName("collapse");
+        for (var i = 0; i < element.length; i++) {
+          if (element[i] !== event.target.ariaControls) {
+            element[i].classList.remove("show");
+          }
+        }
+      }
+    </script>
 
 <div class="card" style="width: 18rem;">
   <img src="Images\c19-18-k-rrik-son-of-yawgmoth.jpg" class="card-img-top" alt="...">
@@ -18,3 +46,5 @@ Welcome to your new app.
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
+
+</body>
