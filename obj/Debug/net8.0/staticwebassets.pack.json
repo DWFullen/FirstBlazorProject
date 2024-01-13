@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\bootstrap\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.css.map"
+    },
+    {
       "Id": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\HelloBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
