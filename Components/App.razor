@@ -1,4 +1,5 @@
 ﻿<!DOCTYPE html>
+<!--data-bs-theme here sets dark mode for the entire website -->
 <html lang="en" data-bs-theme="dark">
 
 <head>
@@ -13,8 +14,28 @@
 </head>
 
 <body>
+  <!--Switch for dark/light mode -->
+    <div class="form-check form-switch mx-4">
+      <input
+        class="form-check-input p-2"
+        type="checkbox"
+        role="switch"
+        id="flexSwitchCheckChecked"
+        checked
+        onclick="DmLmSwitcher()"
+      />
+    </div>
+
     <Routes />
     <script src="_framework/blazor.web.js"></script>
 </body>
+<!-- script DmLmSwitcher below sets function to switch between light and dark mode -->
+<script>
+    function DmLmSwitcher() {
+        var element = document.body;
+        element.dataset.bsTheme =
+            element.dataset.bsTheme == "light" ? "dark" : "light";
+    }
+</script>
 
 </html>
